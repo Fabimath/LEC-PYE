@@ -7,9 +7,8 @@
 </br>
 </br>
 
-# MAT281 - Aplicaciones de la Matemática en la Ingeniería
-
-## Portafolio Personal
+# Laboratorio de Probabilidad y Estadística 
+## Primer Semestre del 2020
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Fabimath/mat281_portfolio/master?urlpath=lab)
