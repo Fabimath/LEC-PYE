@@ -66,6 +66,7 @@ De la misma forma que para el R buscan el instalador adecuado para su sistema op
 ## Tema 4: Análisis de Regresión
 * Clase 8
 * Clase 9
+
 # Tarea
 
 
