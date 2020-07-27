@@ -2,7 +2,7 @@
 
 Tengo el agrado de saludarlos y darles la bienvenida al curso de LEC de Probabilidad y Estadística, en este segundo semestre del 2020. 
 
-Mi nombre es Fabián Ramírez y seré el profesor encargado del laboratorio. Cualquier duda o contacto puede ser por vía mail al correo `lecpye@gmail.com`
+Mi nombre es Fabián Ramírez y seré el profesor encargado del laboratorio. Cualquier duda o contacto puede ser por vía mail al correo `lecpye@gmail.com`, también en caso que quieran una respuesta rapida a un problema pueden unirse al grupo de telegram de mis cursos [aquí](https://t.me/joinchat/ObaYLhsOqO1xnWNu_znthw), recuerden `colocar su telefono privado` para evitar problemas.
 
 Horario de consultas: Jueves de 11:30 a 12:30
 
