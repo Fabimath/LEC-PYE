@@ -54,8 +54,8 @@ De la misma forma que para el R buscan el instalador adecuado para su sistema op
 
 # Clases
 ## Tema 1: Estadística Descriptiva
-* [Clase 1](Clase_01.ipynb)
-* [Clase 2](Clase_02.ipynb)
-* [Clase 3](Clase_03.ipynb)
+* [Clase 1](https://github.com/Fabimath/LEC-PYE/blob/master/Clase_01.ipynb)
+* [Clase 2](https://github.com/Fabimath/LEC-PYE/blob/master/Clase_02.ipynb)
+* [Clase 3](https://github.com/Fabimath/LEC-PYE/blob/master/Clase_03.ipynb)
 
 
