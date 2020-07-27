@@ -1,7 +1,8 @@
-# Laboratorio de Probabilidad y Estadística 
-## Primer Semestre del 2020
+# Presentación
 
-* __Fabián Ramírez__ : [Linkedin](https://www.linkedin.com/in/fabi%C3%A1n-ram%C3%ADrez-d%C3%ADaz-955761189/)
+Tengo el agrado de saludarlos y darles la bienvenida al curso de LEC de Probabilidad y Estadística, en este segundo semestre del 2020. 
 
-Recopilación de laboratorios del laboratorio de probabilidad y estadística del profesor Fabián Ramírez
+Mi nombre es Fabián Ramírez y seré el profesor encargado del laboratorio. Cualquier duda o contacto puede ser por vía mail al correo `lecpye@gmail.com`
+
+Horario de consultas: Jueves de 11:30 a 12:30
 
