@@ -57,18 +57,22 @@ De la misma forma que para el R buscan el instalador adecuado para su sistema op
 * [Clase 1](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_01.ipynb)
 * [Clase 2](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_02.ipynb)
 * [Clase 3](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_03.ipynb)
+
 ## Tema 2: Modelos de Probabilidad
 * [Clase 4](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_04.ipynb)
 * [Clase 5](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_05.ipynb)
+
 ## Tema 3: Inferencia Estadística
 * [Clase 6](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_06.ipynb)
 * [Clase 7](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_07.ipynb)
+
 ## Tema 4: Análisis de Regresión
 * Clase 8
 * [Clase 9](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_09.ipynb)
 
 ## Bases de datos
 * [Pokemon](Clases/pokemon.csv)
+
 # Tarea
 
 
