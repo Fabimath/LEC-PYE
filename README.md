@@ -13,7 +13,7 @@ Los objetivos principales del laboratorio son:
 * Preparar al alumno en estadística computacional mediante temas complementarios a la cátedra.
 * Vincular cátedra-LEC.
 
-Puedes encontrar el programa del curso [aquí](Programa LEC_PyE_211 viña.pdf ).
+Puedes encontrar el programa del curso [aquí](Extras/Programa LEC_PyE_211 viña.pdf ).
 
 ## Fechas de evaluación
 
@@ -50,23 +50,25 @@ Por desgracia la plataforma para programar es poco amigable. Por tanto se recomi
 
 * [R Studio](https://rstudio.com/products/rstudio/download/)
 
-De la misma forma que para el R buscan el instalador adecuado para su sistema operativo. Puedes ver un vídeo explicativo [aquí](R_video.mp4)
+De la misma forma que para el R buscan el instalador adecuado para su sistema operativo. Puedes ver un vídeo explicativo [aquí](Extras/R_video.mp4)
 
 # Clases
 ## Tema 1: Estadística Descriptiva
-* [Clase 1](https://github.com/Fabimath/LEC-PYE/blob/master/Clase_01.ipynb)
-* [Clase 2](https://github.com/Fabimath/LEC-PYE/blob/master/Clase_02.ipynb)
-* [Clase 3](https://github.com/Fabimath/LEC-PYE/blob/master/Clase_03.ipynb)
+* [Clase 1](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_01.ipynb)
+* [Clase 2](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_02.ipynb)
+* [Clase 3](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_03.ipynb)
 ## Tema 2: Modelos de Probabilidad
-* [Clase 4](https://github.com/Fabimath/LEC-PYE/blob/master/Clase_04.ipynb)
-* [Clase 5](https://github.com/Fabimath/LEC-PYE/blob/master/Clase_05.ipynb)
+* [Clase 4](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_04.ipynb)
+* [Clase 5](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_05.ipynb)
 ## Tema 3: Inferencia Estadística
-* [Clase 6](https://github.com/Fabimath/LEC-PYE/blob/master/Clase_06.ipynb)
-* [Clase 7](https://github.com/Fabimath/LEC-PYE/blob/master/Clase_07.ipynb)
+* [Clase 6](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_06.ipynb)
+* [Clase 7](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_07.ipynb)
 ## Tema 4: Análisis de Regresión
 * Clase 8
-* Clase 9
+* [Clase 9](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_09.ipynb)
 
+## Bases de datos
+* [Pokemon](Clases/pokemon.csv)
 # Tarea
 
 
