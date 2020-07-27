@@ -6,3 +6,11 @@ Mi nombre es Fabián Ramírez y seré el profesor encargado del laboratorio. Cua
 
 Horario de consultas: Jueves de 11:30 a 12:30
 
+# Objetivo del laboratorio
+
+Los objetivos principales del laboratorio son:
+* Preparar y entrenar al alumno en aplicaciones computacionales relacionadas con los temas estudiados en la cátedra.
+* Preparar al alumno en estadística computacional mediante temas complementarios a la cátedra.
+* Vincular cátedra-LEC.
+
+Puedes encontrar el programa del curso [aquí](Programa LEC_PyE_211 viña.pdf )
