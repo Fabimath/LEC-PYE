@@ -52,5 +52,10 @@ Por desgracia la plataforma para programar es poco amigable. Por tanto se recomi
 
 De la misma forma que para el R buscan el instalador adecuado para su sistema operativo. Puedes ver un vídeo explicativo [aquí](R_video.mp4)
 
+# Clases
+## Tema 1: Estadística Descriptiva
+* [Clase 1](Clase_01.ipynb)
+* [Clase 2](Clase_02.ipynb)
+* [Clase 3](Clase_03.ipynb)
 
 
