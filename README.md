@@ -25,13 +25,18 @@ Puedes encontrar el programa del curso [aquí](Programa LEC_PyE_211 viña.pdf ).
 
 La nota final viene dada por el promedio aritmetico de los 3 mejores controles (PC) mas la nota de la tarea (NT) con la siguiente ponderación:
 
-<img src="https://latex.codecogs.com/gif.latex?NF=PC*0.7&space;&plus;&space;NT*0.3" title="NF=PC*0.7 + NT*0.3" />
+<img src="https://latex.codecogs.com/gif.latex?NF=PC*0.7&space;&plus;&space;NT*0.3" title="NF=PC*0.7 + NT*0.3" align='center' />
 
 Luego el redondeo a la decima de NF corresponde a la nota final del LEC.
 
 **Observación 1:** Solo el promedio final tiene redondeo, el resto de las notas no se redondean.
+
 **Observación 2:** El puntaje de controles va de 0 a 6 y la nota del control corresponde al puntaje obtenido mas 1. 
 
-<p align="center"><img src="/tex/b975490f6a3b7ebdf286ee7db8f9b9da.svg?invert_in_darkmode&sanitize=true" align=middle width=44.18957399999999pt height=16.438356pt/></p>
+# Horarios y link de zoom
+Los horarios de clases son los siguientes:
+* Sección 1:
+* Sección 2:
+El link para unirse a la clase es el mismo para los dos horarios y es el siguiente [Zoom](https://reuna.zoom.us/my/fabimath?pwd=ME1UUHJLY2p0ZlZraW0xaENUaXcrUT09).
 
 
