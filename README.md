@@ -23,9 +23,9 @@ Puedes encontrar el programa del curso [aquí](Programa LEC_PyE_211 viña.pdf ).
 * Control 4:
 * Tarea:
 
-La nota final viene dada por el promedio aritmetico de los 3 mejores controles ($PC$) mas la nota de la tarea (NT) con la siguiente ponderación:
+La nota final viene dada por el promedio aritmetico de los 3 mejores controles (PC) mas la nota de la tarea (NT) con la siguiente ponderación:
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=NF=PC*0.7&space;&plus;&space;NT*0.3" target="_blank"><img src="https://latex.codecogs.com/gif.latex?NF=PC*0.7&space;&plus;&space;NT*0.3" title="NF=PC*0.7 + NT*0.3" /></a>
+![equation](https://latex.codecogs.com/gif.latex?NF%3DPC*0.7%20&plus;%20NT*0.3)
 
 Luego el redondeo a la decima de $NF$ corresponde a la nota final del LEC.
 
