@@ -1,4 +1,4 @@
-# Presentación
+# Bienvenido al laboratorio de probabilidad y estadística
 
 Tengo el agrado de saludarlos y darles la bienvenida al curso de LEC de Probabilidad y Estadística, en este segundo semestre del 2020. 
 
@@ -6,7 +6,7 @@ Mi nombre es Fabián Ramírez y seré el profesor encargado del laboratorio. Cua
 
 Horario de consultas: Jueves de 11:30 a 12:30
 
-# Objetivo del laboratorio
+## Objetivo del laboratorio
 
 Los objetivos principales del laboratorio son:
 * Preparar y entrenar al alumno en aplicaciones computacionales relacionadas con los temas estudiados en la cátedra.
@@ -15,7 +15,7 @@ Los objetivos principales del laboratorio son:
 
 Puedes encontrar el programa del curso [aquí](Programa LEC_PyE_211 viña.pdf ).
 
-# Fechas de evaluación
+## Fechas de evaluación
 
 * Control 1:
 * Control 2:
@@ -33,10 +33,24 @@ Luego el redondeo a la decima de NF corresponde a la nota final del LEC.
 
 **Observación 2:** El puntaje de controles va de 0 a 6 y la nota del control corresponde al puntaje obtenido mas 1. 
 
-# Horarios y link de zoom
+## Horarios y link de zoom
 Los horarios de clases son los siguientes:
 * Sección 1:
 * Sección 2:
+
 El link para unirse a la clase es el mismo para los dos horarios y es el siguiente [Zoom](https://reuna.zoom.us/my/fabimath?pwd=ME1UUHJLY2p0ZlZraW0xaENUaXcrUT09).
+
+## Instalar R
+
+La instalación de R depende de su sistema operativo (Windows, Linux o Mac), por tanto dejare el link de descarga oficial de R y desde el sitio web ustedes instalaran el R dependiendo de su sistema:
+
+* [Lenguaje R](https://cran.dcc.uchile.cl/)
+
+Por desgracia la plataforma para programar es poco amigable. Por tanto se recomienda instalar R-studio, ¡además del R! el cual es una plataforma para programar en R de forma mas amigable.
+
+* [R Studio](https://rstudio.com/products/rstudio/download/)
+
+De la misma forma que para el R buscan el instalador adecuado para su sistema operativo. Puedes ver un vídeo explicativo [aquí](R_video.mp4)
+
 
 
