@@ -31,5 +31,6 @@ $$
 
 Luego el redondeo a la decima de $NF$ corresponde a la nota final del LEC.
 
-*Observación 1:* Solo el promedio final tiene redondeo, el resto de las notas no se redondean.
-*Observación 2:* El puntaje de controles va de 0 a 6 y la nota del control corresponde al puntaje obtenido mas 1.
+**Observación 1:** Solo el promedio final tiene redondeo, el resto de las notas no se redondean.
+
+**Observación 2:** El puntaje de controles va de 0 a 6 y la nota del control corresponde al puntaje obtenido mas 1.
