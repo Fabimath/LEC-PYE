@@ -6,7 +6,9 @@ Puedes encontrar una versión ejecutable de los códigos aquí:
 
 Tengo el agrado de saludarlos y darles la bienvenida al curso de LEC de Probabilidad y Estadística, en este segundo semestre del 2020. 
 
-Mi nombre es Fabián Ramírez y seré el profesor encargado del laboratorio. Cualquier duda o contacto puede ser por vía mail al correo `lecpye@gmail.com`, también en caso que quieran una respuesta rapida a un problema pueden unirse al grupo de telegram de mis cursos [aquí](https://t.me/joinchat/ObaYLhsOqO1xnWNu_znthw), recuerden `colocar su telefono privado` para evitar problemas.
+Mi nombre es Fabián Ramírez y seré el profesor encargado del laboratorio. Cualquier duda o contacto puede ser por vía mail al correo `lecpye@gmail.com`, también en caso que quieran una respuesta rapida a un problema pueden unirse al grupo de telegram del LEC [aquí](https://t.me/joinchat/ObaYLhsOqO1xnWNu_znthw), recuerden `colocar su telefono privado` para evitar problemas.
+
+[Aquí](https://desktop.telegram.org/) puedes encontrar la página oficial de Telegram.
 
 Horario de consultas: Jueves de 11:30 a 12:30
 
