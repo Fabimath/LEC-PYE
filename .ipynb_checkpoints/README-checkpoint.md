@@ -41,7 +41,7 @@ Luego el redondeo a la decima de NF corresponde a la nota final del LEC.
 
 ## Horarios y link de zoom
 Los horarios de clases son los siguientes:
-* Sección 1:
+* Sección 1:  [9103103763](https://zoom.us/j/9103103763)
 * Sección 2:
 
 El link para unirse a la clase es el mismo para los dos horarios y es el siguiente [Zoom](https://reuna.zoom.us/my/fabimath?pwd=ME1UUHJLY2p0ZlZraW0xaENUaXcrUT09).
