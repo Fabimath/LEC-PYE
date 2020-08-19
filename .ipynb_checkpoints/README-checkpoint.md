@@ -31,7 +31,9 @@ Puedes encontrar el programa del curso [aquí](Extras/Programa LEC_PyE_211 viña
 
 La nota final viene dada por el promedio aritmetico de los 3 mejores controles (PC) mas la nota de la tarea (NT) con la siguiente ponderación:
 
-<img src="https://latex.codecogs.com/gif.latex?NF=PC*0.7&space;&plus;&space;NT*0.3" title="NF=PC*0.7 + NT*0.3" align='center' />
+~~
+Nota.Final = 0.6 * Promedio.Controles + 0.4 * Nota.Tarea
+~~
 
 Luego el redondeo a la decima de NF corresponde a la nota final del LEC.
 
