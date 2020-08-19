@@ -10,7 +10,7 @@ Mi nombre es Fabián Ramírez y seré el profesor encargado del laboratorio. Cua
 
 [Aquí](https://desktop.telegram.org/) puedes encontrar la página oficial de Telegram.
 
-Horario de consultas: Jueves de 11:30 a 12:30
+Horario de consultas: _Agendar via correo o telegram._
 
 ## Objetivo del laboratorio
 
@@ -23,11 +23,11 @@ Puedes encontrar el programa del curso [aquí](Extras/Programa LEC_PyE_211 viña
 
 ## Fechas de evaluación
 
-* Control 1:
-* Control 2:
-* Control 3:
-* Control 4:
-* Tarea:
+* **CONTROL 1**: 8 de Septiembre
+* **CONTROL 2**: 6 de Octubre
+* **CONTROL 3**: 27 de Octubre
+* **CONTROL 4**: 17 de Noviembre
+
 
 La nota final viene dada por el promedio aritmetico de los 3 mejores controles (PC) mas la nota de la tarea (NT) con la siguiente ponderación:
 
@@ -44,9 +44,7 @@ Luego el redondeo a la decima de NF corresponde a la nota final del LEC.
 ## Horarios y link de zoom
 Los horarios de clases son los siguientes:
 * Sección 1:  [9103103763](https://zoom.us/j/9103103763)
-* Sección 2:
-
-El link para unirse a la clase es el mismo para los dos horarios y es el siguiente [Zoom](https://reuna.zoom.us/my/fabimath?pwd=ME1UUHJLY2p0ZlZraW0xaENUaXcrUT09).
+* Sección 2:  [98912856343](https://zoom.us/j/98912856343)
 
 ## Instalar R
 
@@ -62,7 +60,7 @@ De la misma forma que para el R buscan el instalador adecuado para su sistema op
 
 # Clases
 ## Tema 1: Estadística Descriptiva
-* [Clase 1](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_01.ipynb) - [Vídeo](https://youtu.be/lPwg4tLcUpw)
+* [Clase 1](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_01.ipynb) - [Vídeo 1](https://youtu.be/lPwg4tLcUpw)
 * [Clase 2](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_02.ipynb)
 * [Clase 3](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_03.ipynb)
 
