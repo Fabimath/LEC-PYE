@@ -61,7 +61,7 @@ De la misma forma que para el R buscan el instalador adecuado para su sistema op
 # Clases
 ## Tema 1: Estadística Descriptiva
 * [Clase 1](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_01.ipynb) - [Vídeo 1](https://youtu.be/lPwg4tLcUpw) - [Ejercicios 1](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Ejercicios_1.ipynb)
-* [Clase 2](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_02.ipynb)
+* [Clase 2](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_02.ipynb) - [Vídeo 2](https://youtu.be/D_XgVGD0SEc)
 * [Clase 3](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_03.ipynb)
 
 ## Tema 2: Modelos de Probabilidad
