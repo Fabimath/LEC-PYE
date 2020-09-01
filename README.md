@@ -78,7 +78,7 @@ De la misma forma que para el R buscan el instalador adecuado para su sistema op
 
 ## Bases de datos
 * [Pokemon](Clases/pokemon.csv)
-
+* [DB - Tarjetas](Clases/DB - TARJETAS.csv)
 # Tarea
 
 
