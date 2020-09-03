@@ -77,6 +77,7 @@ De la misma forma que para el R buscan el instalador adecuado para su sistema op
 * [Clase 9](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_09.ipynb)
 
 ## Bases de datos
+
 * [Pokemon](Clases/pokemon.csv)
 * [DB - Tarjetas](Clases/DB - TARJETAS.csv)
 # Tarea
