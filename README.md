@@ -81,6 +81,7 @@ De la misma forma que para el R buscan el instalador adecuado para su sistema op
 * [Pokemon](Clases/pokemon.csv)
 * [DB - Tarjetas](Clases/DB - TARJETAS.csv)
 * [control_1](Clases/superstore.csv)
+
 # Tarea
 
 
