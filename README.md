@@ -6,7 +6,7 @@ Puedes encontrar una versión ejecutable de los códigos aquí:
 
 Tengo el agrado de saludarlos y darles la bienvenida al curso de LEC de Probabilidad y Estadística, en este segundo semestre del 2020. 
 
-Mi nombre es Fabián Ramírez y seré el profesor encargado del laboratorio. Cualquier duda o contacto puede ser por vía mail al correo `lecpye@gmail.com`, también en caso que quieran una respuesta rapida a un problema pueden unirse al grupo de telegram del LEC [aquí](https://t.me/joinchat/ObaYLhsOqO1xnWNu_znthw), recuerden `colocar su telefono privado` para evitar problemas.
+Mi nombre es Fabián Ramírez y seré el profesor encargado del laboratorio. Cualquier duda o contacto puede ser por vía mail al correo `lecpye@gmail.com`, también en caso que quieran una respuesta rapida a un problema pueden unirse al grupo de telegram del LEC <img src="telegram_logo.svg" alt="drawing" width="12"/> [aquí](https://t.me/joinchat/ObaYLhsOqO1xnWNu_znthw), recuerden `colocar su telefono privado` para evitar problemas.
 
 [Aquí](https://desktop.telegram.org/) puedes encontrar la página oficial de Telegram.
 
@@ -78,9 +78,9 @@ De la misma forma que para el R buscan el instalador adecuado para su sistema op
 
 ## Bases de datos
 
-* [Pokemon](Clases/pokemon.csv)
-* [DB - Tarjetas](Clases/DB - TARJETAS.csv)
-* [control_1](Clases/superstore.csv)
+* <img src="excel_logo.svg" alt="drawing" width="16"/> [Pokemon](Clases/pokemon.csv)
+* <img src="excel_logo.svg" alt="drawing" width="16"/> [DB - Tarjetas](Clases/DB - TARJETAS.csv)
+* <img src="excel_logo.svg" alt="drawing" width="16"/> [control_1](Clases/superstore.csv)
 
 # Tarea
 
