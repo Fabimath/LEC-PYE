@@ -60,21 +60,21 @@ De la misma forma que para el R buscan el instalador adecuado para su sistema op
 
 # Clases
 ## Tema 1: Estadística Descriptiva
-* [Clase 1](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_01.ipynb) - [Vídeo 1](https://youtu.be/lPwg4tLcUpw) - [Ejercicios 1](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Ejercicios_1.ipynb)
-* [Clase 2](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_02.ipynb) - [Vídeo 2](https://youtu.be/D_XgVGD0SEc) - [Ejercicios 2](Clases/Ejercicios_2.pdf)
-* [Clase 3](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_03.ipynb) - [Vídeo 3](https://youtu.be/FeGm7Odj7Vs) - [Ejercicios 3](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Ejercicios_3.ipynb)
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 1](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_01.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 1](https://youtu.be/lPwg4tLcUpw) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 1](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Ejercicios_1.ipynb)
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 2](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_02.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 2](https://youtu.be/D_XgVGD0SEc) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 2](Clases/Ejercicios_2.pdf)
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 3](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_03.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 3](https://youtu.be/FeGm7Odj7Vs) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 3](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Ejercicios_3.ipynb)
 
 ## Tema 2: Modelos de Probabilidad
-* [Clase 4](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_04.ipynb)
-* [Clase 5](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_05.ipynb)
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 4](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_04.ipynb)
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 5](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_05.ipynb)
 
 ## Tema 3: Inferencia Estadística
-* [Clase 6](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_06.ipynb)
-* [Clase 7](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_07.ipynb)
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 6](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_06.ipynb)
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 7](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_07.ipynb)
 
 ## Tema 4: Análisis de Regresión
 * Clase 8
-* [Clase 9](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_09.ipynb)
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 9](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_09.ipynb)
 
 ## Bases de datos
 
