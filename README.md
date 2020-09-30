@@ -66,7 +66,7 @@ De la misma forma que para el R buscan el instalador adecuado para su sistema op
 
 ## Tema 2: Modelos de Probabilidad
 * <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 4](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_04.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 4](https://youtu.be/zsmlTOasvKs)
-* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 5](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_05.ipynb)
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 5](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_05.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 5](https://youtu.be/QbKEeXOege0)  
 
 ## Tema 3: Inferencia Estadística
 * <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 6](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_06.ipynb)
