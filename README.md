@@ -81,6 +81,7 @@ De la misma forma que para el R buscan el instalador adecuado para su sistema op
 * <img src="excel_logo.svg" alt="drawing" width="16"/> [Pokemon](Clases/pokemon.csv)
 * <img src="excel_logo.svg" alt="drawing" width="16"/> [DB - Tarjetas](Clases/DB - TARJETAS.csv)
 * <img src="excel_logo.svg" alt="drawing" width="16"/> [control_1](Clases/superstore.csv)
+* <img src="excel_logo.svg" alt="drawing" width="16"/> [clase 6](Clases/data_clase_6.csv)
 
 # Tarea
 
