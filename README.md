@@ -69,8 +69,8 @@ De la misma forma que para el R buscan el instalador adecuado para su sistema op
 * <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 5](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_05.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 5](https://youtu.be/lBtetHUTYZo)  
 
 ## Tema 3: Inferencia Estadística
-* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 6](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_06.ipynb)
-* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 7](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_07.ipynb)
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 6](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_06.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 6](https://youtu.be/jFw-uTkumnc)
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 7](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_07.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 7](https://youtu.be/Gz0TneQkJDw)
 
 ## Tema 4: Análisis de Regresión
 * Clase 8
