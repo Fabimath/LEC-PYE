@@ -73,8 +73,8 @@ De la misma forma que para el R buscan el instalador adecuado para su sistema op
 * <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 7](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_07.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 7](https://youtu.be/Gz0TneQkJDw)
 
 ## Tema 4: Análisis de Regresión
-* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 8](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_08.ipynb)
-* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 9](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_09.ipynb)
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 8](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_08.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 8](https://youtu.be/GuEXS312cN4)
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 9](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_09.ipynb) 
 
 ## Bases de datos
 
